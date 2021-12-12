@@ -1,0 +1,3 @@
+rmse: 0.11169992760602518 alpha: 0.01 note: replaced NaNs in all columns, Standardized all features
+rmse: 0.15468694976812256 alpha: 0.01 note: replaced NaNs in all columns, Standardized all features
+rmse: 0.12173830181415977 alpha: 0.001 note: replaced NaNs in all columns, Standardized all features
